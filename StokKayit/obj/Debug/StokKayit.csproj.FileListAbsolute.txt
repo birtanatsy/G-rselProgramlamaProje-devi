@@ -1,0 +1,10 @@
+E:\GörselProje\StokKayit\StokKayit\bin\Debug\StokKayit.exe.config
+E:\GörselProje\StokKayit\StokKayit\bin\Debug\StokKayit.exe
+E:\GörselProje\StokKayit\StokKayit\bin\Debug\StokKayit.pdb
+E:\GörselProje\StokKayit\StokKayit\obj\Debug\StokKayit.csproj.AssemblyReference.cache
+E:\GörselProje\StokKayit\StokKayit\obj\Debug\StokKayit.Form1.resources
+E:\GörselProje\StokKayit\StokKayit\obj\Debug\StokKayit.Properties.Resources.resources
+E:\GörselProje\StokKayit\StokKayit\obj\Debug\StokKayit.csproj.GenerateResource.cache
+E:\GörselProje\StokKayit\StokKayit\obj\Debug\StokKayit.csproj.CoreCompileInputs.cache
+E:\GörselProje\StokKayit\StokKayit\obj\Debug\StokKayit.exe
+E:\GörselProje\StokKayit\StokKayit\obj\Debug\StokKayit.pdb
